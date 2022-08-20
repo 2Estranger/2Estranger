@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @2Estranger
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python plus javasript 
+- 🌱 I’m currently learning python and javasript 
 
 <!---
 2Estranger/2Estranger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
