@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @2Estranger
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python and javascrit 
-- 
+- I am a hard worker and dedicated person
+
 
 <!---
 2Estranger/2Estranger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
